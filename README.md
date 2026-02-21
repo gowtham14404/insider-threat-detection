@@ -352,7 +352,7 @@ MIT License — Free to use for educational and research purposes.
 
 ## 👤 Author
 
-Built as part of an AI/ML Security research project.  
+Built as part of an CyberSecurity Research project.  
 Demonstrates practical application of behavioral biometrics in cybersecurity.
 
 ---
